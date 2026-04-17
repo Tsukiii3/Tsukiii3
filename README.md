@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**Tsukiii3/Tsukiii3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Sistemas de Informação
+💻 Focado em Backend e Estruturas de Dados
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+### 🧠 Linguagens
+
+* Python
+* Java (em aprendizado)
+
+### ⚙️ Backend
+
+* APIs REST
+* FastAPI (básico)
+
+### 📊 Dados
+
+* Pandas
+* Plotly
+
+### 🌐 Frontend
+
+* HTML
+* CSS
+* JAVASCRIPT
+
+---
+
+## 📌 Projetos em destaque
+
+* 📊 Manipulação de Listas → algoritmos clássicos em Python
+* 📈 Dashboard com Python → análise de dados com Pandas e Plotly
+* 🛡️ Detector de Phishing → análise de emails
+
+---
+
+## 📈 Atualmente estudando
+
+* Estruturas de Dados
+* Sistemas Distribuídos
+* Desenvolvimento Backend
+
+---
+
+## 🎯 Objetivo
+
+Me tornar desenvolvedor backend e evoluir em engenharia de software.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (https://www.linkedin.com/in/rafael-farias-52230735a/)
