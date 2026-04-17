@@ -46,8 +46,8 @@
 ## 📌 Projetos em destaque
 
 * 📊 Manipulação de Listas → algoritmos clássicos em Python
-* 📈 Dashboard com Python → análise de dados com Pandas, Plotly e Streamlit
-* 🛡️ Detector de Phishing → análise de emails
+* 📈 D2_Dashboard → análise de dados com Pandas, Plotly e Streamlit
+* 🛡️ A3 → análise de emails com SpringBoot
 
 ---
 
