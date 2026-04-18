@@ -60,6 +60,8 @@
 
 ---
 
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
 ## 🎯 Objetivo
 
 Me tornar desenvolvedor backend e evoluir em engenharia de software.
