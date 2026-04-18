@@ -60,8 +60,6 @@
 
 ---
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Tsukiii3&show_icons=true&theme=dark)
-
 ## 🎯 Objetivo
 
 Me tornar desenvolvedor backend e evoluir em engenharia de software.
