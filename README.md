@@ -60,7 +60,7 @@
 
 ---
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Tsukiii3&show_icons=true&theme=dark)
 
 ## 🎯 Objetivo
 
