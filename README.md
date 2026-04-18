@@ -47,7 +47,7 @@
 
 * 📊 Manipulação de Listas → algoritmos clássicos em Python
 * 📈 D2_Dashboard → análise de dados com Pandas, Plotly e Streamlit
-* 🛡️ A3 → análise de emails com SpringBoot
+* 🛡️ A3 → análise de emails com SpringBoot e APIs externas
 
 ---
 
