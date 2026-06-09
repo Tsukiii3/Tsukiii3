@@ -45,9 +45,9 @@ Focado em Backend e Estruturas de Dados
 
 ## Projetos em destaque
 
-*  Manipulação de Listas → algoritmos clássicos em Python
+* Manipulação de Listas → algoritmos clássicos em Python
 * D2_Dashboard → análise de dados com Pandas, Plotly e Streamlit
-*  A3 → análise de emails com SpringBoot e APIs externas
+* PhisGuard → análise de emails com SpringBoot e APIs externas
 
 ---
 
