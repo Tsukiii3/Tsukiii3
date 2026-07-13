@@ -45,7 +45,7 @@ Focado em Backend e Estruturas de Dados
 
 ## Projetos em destaque
 
-* Manipulação de Listas → algoritmos clássicos em Python
+* Java-Coding-Challenges -> estruturas de dados e resolução de problemas utilizando Java.
 * D2_Dashboard → análise de dados com Pandas, Plotly e Streamlit
 * PhisGuard → análise de emails com SpringBoot e APIs externas
 
