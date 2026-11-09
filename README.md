@@ -56,6 +56,7 @@ Focado em Backend e Estruturas de Dados
 * Spring Boot (Backend Java)
 * JavaScript
 * Estruturas de Dados
+* Big Data e Análise de Dados
 
 ---
 
