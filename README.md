@@ -62,7 +62,7 @@ Focado em Backend e Estruturas de Dados
 
 ##  Objetivo
 
-Me tornar desenvolvedor backend e evoluir em engenharia de software.
+Me tornar desenvolvedor e evoluir em engenharia de software.
 
 ---
 
