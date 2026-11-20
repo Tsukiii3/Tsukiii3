@@ -1,5 +1,5 @@
  Estudante de Sistemas de Informação, 
-Focado em Backend e Estruturas de Dados
+
 
 ---
 
